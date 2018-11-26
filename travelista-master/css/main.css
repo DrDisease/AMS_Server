@@ -92,6 +92,7 @@ $black			: #222;
 }
 
 body {
+  color: #331E36;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -160,7 +161,6 @@ a, a:focus, a:hover {
 h1, h2, h3,
 h4, h5, h6 {
   font-family: "Poppins", sans-serif;
-  color: #222222;
   color: #c2EFEB;
   line-height: 1.2em !important;
   margin-bottom: 0;
@@ -799,7 +799,6 @@ td, th {
 }
 
 .section-bg {
-  background: #f9fafc;
   background: #c2EFEB;
 }
 
@@ -819,13 +818,11 @@ td, th {
 /* =================================== */
 /*---------- Start Elements Page -------------*/
 .whole-wrap {
-  background-color: #f9f9ff;
   background-color: #c2EFEB;
 }
 
 .generic-banner {
   margin-top: 60px;
-  background-color: #f8b600;
   background-color: #c2EFEB;
   text-align: center;
 }
@@ -959,7 +956,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .button-area {
-  background: #f9f9ff;
   background: #c2EFEB;
 }
 
